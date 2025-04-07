@@ -19,5 +19,7 @@
 
         <input type="submit" value="Enviar">
     </form>
+    <p><a href="index.php" class="boton">Volver al inicio</a></p>
+
 </body>
 </html>

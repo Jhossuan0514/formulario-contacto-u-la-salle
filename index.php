@@ -7,6 +7,9 @@
 </head>
 <body>
     <h1>Bienvenido a U La Salle</h1>
-    <p><a href="contacto.php">Ir al formulario de contacto</a></p>
+    <p>Este es el portal de contacto de estudiantes.</p>
+    <a href="contacto.php" class="boton">Ir al formulario de contacto</a>
 </body>
+
 </html>
+
